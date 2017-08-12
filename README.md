@@ -1,5 +1,6 @@
-# movie_trailer_website
-Displays my favorite movies
+## movie_trailer_website
+
+A website to show trailers of my favorite movies
 
 -------------------------------------------
 
@@ -9,5 +10,3 @@ clone/download the repository (movie_trailer_website)
 Open file: entertainment_center.py
 Run file: entertainment_center.py
 
-----------------------
-fresh_tomatoes.py @ https://github.com/udacity/ud036_StarterCode
